@@ -1,4 +1,4 @@
-📊 OLA - Ride-Prediction-Insights-Dashboard
+📊 OLA - Ride Prediction & Insights Dashboard
 🧠 Project Overview
 
 This project analyzes ride booking data of a ride-hailing service (OLA-like platform) to identify patterns in bookings, cancellations, revenue, vehicle performance, and customer/driver ratings.
